@@ -1,0 +1,11 @@
+# PlatformIO build artifacts
+.pio/
+
+# IDE / editor directories
+.vscode/
+.idea/
+
+# Compiled firmware artifacts
+*.bin
+*.elf
+*.map
