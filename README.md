@@ -1,5 +1,9 @@
 # GhostWire
 
+<p align="center">
+  <img src="hehe.png" alt="GhostWire Logo" width="200"/>
+</p>
+
 **ESP32 Wireless Discovery & Device Diagnostics**
 
 A compact wireless discovery and hardware diagnostics toolkit for ESP32.
